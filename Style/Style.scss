@@ -60,6 +60,7 @@ html {
   top: 2%;
   left: 2%;
   z-index: 5;
+  user-select: none;
   &:hover {
     transform: scale(1.1);
   }

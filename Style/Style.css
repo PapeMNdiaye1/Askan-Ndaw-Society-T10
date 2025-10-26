@@ -50,6 +50,9 @@ html {
   top: 2%;
   left: 2%;
   z-index: 5;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
 }
 .the-logo:hover {
   transform: scale(1.1);
